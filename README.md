@@ -69,7 +69,7 @@ This repository contains 15+ documented security investigations covering phishin
 
 - **LinkedIn:** [linkedin.com/in/anishkaranam](https://linkedin.com/in/anishkaranam)
 - **GitHub:** [github.com/karanam61](https://github.com/karanam61)
-- **Email:** karanam.anish@gmail.com
+- **Email:** abhiramreddyramasahayam@gmail.com
 
 ---
 
