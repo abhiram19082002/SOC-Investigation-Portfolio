@@ -67,8 +67,8 @@ This repository contains 15+ documented security investigations covering phishin
 
 ## 🤝 Connect
 
-- **LinkedIn:** [linkedin.com/in/anishkaranam](https://linkedin.com/in/anishkaranam)
-- **GitHub:** [github.com/karanam61](https://github.com/karanam61)
+- **LinkedIn:** [linkedin.com/in/abhiram-reddy-1234981a4/](https://linkedin.com/in/abhiram-reddy-1234981a4/)
+- **GitHub:** [github.com/abhiram19082002](https://github.com/abhiram19082002)
 - **Email:** abhiramreddyramasahayam@gmail.com
 
 ---
